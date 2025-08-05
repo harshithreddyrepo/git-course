@@ -1,1 +1,2 @@
 "Welcome to Git"
+"Git is a Distributed Version Control System"
